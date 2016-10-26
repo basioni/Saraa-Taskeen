@@ -1,0 +1,7 @@
+<?php 
+ //WARNING: The contents of this file are auto-generated
+$beanList['JWNA_JUNIORWLNEWACTIVE'] = 'JWNA_JUNIORWLNEWACTIVE';
+$beanFiles['JWNA_JUNIORWLNEWACTIVE'] = 'modules/JWNA_JUNIORWLNEWACTIVE/JWNA_JUNIORWLNEWACTIVE.php';
+$moduleList[] = 'JWNA_JUNIORWLNEWACTIVE';
+
+?>
